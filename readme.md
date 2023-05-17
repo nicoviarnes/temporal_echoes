@@ -1,4 +1,4 @@
-	Game Concept:
+	Game Concept: 
 	"Temporal Echoes: Time Loop Puzzler" is a puzzle game where players navigate through a series of interconnected rooms trapped in a time loop. The unique twist is the ability to create echoes of their past actions, allowing them to collaborate with their previous selves to solve puzzles and progress.
 
 	Gameplay Mechanics:
